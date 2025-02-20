@@ -1,4 +1,6 @@
-## Hi there 👋
+## About our team
+We are currently working on improving the stability and scalability of printable electronics
+
 
 <!--
 **adprintz/adprintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
